@@ -7,3 +7,7 @@ SG sources are from https://github.com/samleong123/mewatchsg/blob/main/mewatchsg
 Will update both if I have some free time
 
 SG EPG available from https://github.com/AqFad2811/epg/blob/main/singapore.xml
+
+Reference :
+IPTV Catalogue : https://iptvcat.com
+IPTV.org github : https://github.com/iptv-org
