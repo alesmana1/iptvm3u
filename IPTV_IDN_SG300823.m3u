@@ -28,11 +28,11 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:i
 #EXTINF:0 tvg-country="ID" tvg-id="14" tvg-chno="14" tvg-logo="https://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="Undefined",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/index.m3u8
 #EXTINF:0 tvg-country="ID" tvg-id="15" tvg-chno="15" tvg-logo="https://i.imgur.com/lSgiYnp.png" group-title="Undefined",TVRI Jakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8?checkedby:iptvcat.net
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="ID" tvg-id="16" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8?checkedby:iptvcat.net
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="ID" tvg-id="17" tvg-chno="17" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Undefined",TVRI World
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.net
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.net
 
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
