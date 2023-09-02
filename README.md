@@ -1,4 +1,4 @@
-Playlist for IDN & SG Local TV.
+Playlist for IDN Local TV.
 
 IDN sources are collected from various unofficial sources from internet
 
