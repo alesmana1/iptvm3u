@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="ID" tvg-id="1" tvg-chno="1" tvg-logo="https://img.favpng.com/18/17/21/rcti-television-logo-gtv-sctv-png-favpng-vWEuiFrAXP3yiTcr4pNsQ3zfB.jpg" group-title="Undefined",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.com
+http://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="ID" tvg-id="2" tvg-chno="2" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="Undefined",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="ID" tvg-id="3" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Undefined",ANTV
