@@ -23,17 +23,17 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4d
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="ID" tvg-id="12" tvg-chno="12" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Undefined",KompasTV
 http://210.210.155.35/uq2663/h/h234/index2.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-id="12" tvg-chno="13" tvg-logo="https://i.imgur.com/bD6UHeZ.png" group-title="Undefined",KompasTV
-http://210.210.155.35/uq2663/h/h234/index2.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-id="13" tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="Undefined",CNBC Indonesia
+#EXTINF:0 tvg-country="ID" tvg-id="13" tvg-chno="13" tvg-logo="https://en.wikipedia.org/wiki/File:CNN_Indonesia_logo.svg" group-title="Undefined",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="ID" tvg-id="14" tvg-chno="14" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="Undefined",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-id="14" tvg-chno="15" tvg-logo="https://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="Undefined",Elshinta TV
+#EXTINF:0 tvg-country="ID" tvg-id="15" tvg-chno="15" tvg-logo="https://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="Undefined",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-id="15" tvg-chno="16" tvg-logo="https://i.imgur.com/lSgiYnp.png" group-title="Undefined",TVRI Jakarta
+#EXTINF:0 tvg-country="ID" tvg-id="16" tvg-chno="16" tvg-logo="https://i.imgur.com/lSgiYnp.png" group-title="Undefined",TVRI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-id="16" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Nasional
+#EXTINF:0 tvg-country="ID" tvg-id="17" tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Undefined",TVRI Nasional
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-id="17" tvg-chno="18" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Undefined",TVRI World
+#EXTINF:0 tvg-country="ID" tvg-id="18" tvg-chno="18" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Undefined",TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.net
 
 
